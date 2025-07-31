@@ -4,24 +4,30 @@ This is a simple web app prototype that converts user-uploaded JSON file ofinfor
 
 ## Features
 
--Upload a `.json` file up to 500KB.
--Convert the file to a downloadable `.csv` file.
--Simple, clean user interface.
+- Upload a `.json` file up to 500KB.
+
+- Convert the file to a downloadable `.csv` file.
+
+- Simple, clean user interface.
 
 ## Tech Stack
 
--**Frontend:** React, Vite, Tailwind CSS
--**Backend:** Python (Flask/FastAPI)
--**Package Manager:** npm
+- **Frontend:** React, Vite, Tailwind CSS
+
+- **Backend:** Python (Flask/FastAPI)
+
+- **Package Manager:** npm
 
 ## How to Run Locally
 
-1.**Clone the repository:**
+1. **Clone the repository:**
+
     ```bash
     git clone [https://github.com/jcutmck/cal_time-alyzer/tree/main](https://github.com/jcutmck/cal_time-alyzer/tree/main)
     ```
-2.**Start the backend:**
+
+2. **Start the backend:**
 TBD - Work in Progress
 
-3.**Start the frontend:**
+3. **Start the frontend:**
 TBD - Work in Progress
