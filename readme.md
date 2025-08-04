@@ -23,7 +23,7 @@ This is a simple web app prototype that converts user-uploaded JSON file ofinfor
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/jcutmck/cal_time-alyzer/tree/main](https://github.com/jcutmck/cal_time-alyzer/tree/main)
+    git clone https://github.com/jcutmck/cal_time-alyzer.git
     ```
 
 2. **Start the backend:**
