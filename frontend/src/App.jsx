@@ -175,7 +175,7 @@ export default function App() {
             </div>
           )}
         </div>
-        <p className="text-center text-slate-400 text-xs mt-4">Powered by Vite + React</p>
+        <p className="text-center text-slate-400 text-xs mt-4">Powered by Vite + React!</p>
       </div>
     </div>
   );
