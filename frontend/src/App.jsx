@@ -169,13 +169,13 @@ export default function App() {
                   onClick={handleStartOver}
                   className="text-sm font-medium text-indigo-600 hover:text-indigo-500 mt-4"
                 >
-                  Convert another file
+                  Convert another file?
                 </button>
               </div>
             </div>
           )}
         </div>
-        <p className="text-center text-slate-400 text-xs mt-4">Powered by Vite + React!</p>
+        <p className="text-center text-slate-400 text-xs mt-4">Powered by Vite + React</p>
       </div>
     </div>
   );
