@@ -1,6 +1,6 @@
 # JSON to CSV Converter
 
-This is a simple web app prototype that converts user-uploaded JSON file ofinformation into a CSV format. I intended this to be a method of tranforming calendar data and plan to play with adding analytics on the backend to output interesting details about calendar information entered, like how long spent in meetings. It features a React frontend and a Python backend.
+This is a simple web app prototype that converts user-uploaded JSON file into a CSV format. I intended this to be a method of tranforming calendar data and plan to play with adding analytics on the backend to output interesting details about calendar information entered, like how long spent in meetings. It features a React frontend and a Python backend.
 
 ## Features
 
